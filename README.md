@@ -12,5 +12,5 @@ Busque os códigos dos Exemplos dos slides na pasta
 
 Alguns códigos são retirados do livro An Introduction to Parallel Programming de Peter S. Pacheco
 
-https://www.cs.usfca.edu/~peter/ipp/index.html
+[Clique aqui para acessar a pagina do livro](https://www.cs.usfca.edu/~peter/ipp/index.html)
 
