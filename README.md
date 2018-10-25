@@ -1,4 +1,4 @@
-# openmp
+# Material Minicurso OpenMP
 
 Códigos de exemplo 
 
