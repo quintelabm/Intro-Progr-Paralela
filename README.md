@@ -1,6 +1,6 @@
 # Material Minicurso OpenMP
 
-Slide [ProgParalelaBMQ_1]
+Slide [openmp/ProgParalelaBMQ_1.pdf]
 
 Códigos de exemplo 
 
