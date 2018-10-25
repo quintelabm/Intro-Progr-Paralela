@@ -1,4 +1,6 @@
-# Material Minicurso de Introdução a Programação Paralela
+# Minicurso de Introdução a Programação Paralela
+
+## Material
 
 [Material do primeiro dia de curso](https://github.com/quintelabm/openmp/blob/master/ProgParalelaBMQ_1.pdf) - 25/10/2018
 
