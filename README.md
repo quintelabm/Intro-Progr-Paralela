@@ -1,4 +1,5 @@
 # Minicurso de Introdução a Programação Paralela
+Por Barbara Quintela
 
 ## Material
 
